@@ -9,5 +9,3 @@ def flatten(n):
 
 flatten(a)
 print(b)
-
-www.patika.dev
